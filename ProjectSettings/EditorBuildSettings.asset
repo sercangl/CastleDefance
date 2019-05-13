@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InterFace.unity
+    guid: 1afc5c63b2e141a4583a7c060b2b063d
+  - enabled: 1
+    path: Assets/Scenes/ChoseLevel.unity
+    guid: cb5f11fafbd0ea849b57c2faabd9ace6
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: ea67882f639d02340b56b7ee9639b842
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: c69291bd7850d4b68aca81ee7b4bee9a
+  - enabled: 1
+    path: Assets/Level2Assets/Modern Weapons Pack/Ak-47/GameOVer.unity
+    guid: 882936137ba712b4784a6543eec30d71
+  - enabled: 1
+    path: Assets/Level2Assets/Modern Weapons Pack/Ak-47/YourDone.unity
+    guid: 82c5231f44fea43488b9f43828b1abf8
+  - enabled: 1
+    path: Assets/Level2Assets/Modern Weapons Pack/Ak-47/KuntayGameOVer 1.unity
+    guid: 9b9273b79abf3fe47b192f0e22fcf969
+  m_configObjects: {}
